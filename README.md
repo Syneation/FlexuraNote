@@ -21,6 +21,8 @@ if you get a window stating that the file is unsafe, it's because I don't have t
 
 gmail: syneation@gmail.com
 
+(you can see the FusionNote code in my other repository "FusionNote-code")
+
 # RU
 # Что такое FusionNote?
 этот текстовый редактор намного лучше старого Notepad+, а еще лучше - просто notepad. 
@@ -42,3 +44,5 @@ gmail: syneation@gmail.com
 если вы увидите сообщение о том, что файл небезопасен, это потому, что у меня нет сертификата программы, так что не волнуйтесь:(
 
 gmail: syneation@gmail.com
+
+(вы можете посмотреть код FusionNote в моем другом репозитории "FusionNote-code")
