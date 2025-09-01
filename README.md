@@ -14,6 +14,7 @@ In this text editor, you can change the color, font and foreground color of the 
 4) To enable line break, click "Settings" -> "Line Break", and to DISABLE it, just click again so that your checkbox is not checked.
 5) To enable AutoSave, you need to open or save your text file and click "Settings" -> "AutoSave", and when you enter any character, your text will be automatically saved. To disable it, just click again so that your checkbox is unchecked! (if you don't save or open the file and try to enable auto-save, the program automatically disables auto-save)
 6) To change the theme, just click on "Settings" -> "Theme" and select a color.
+7) you can change the location of the bar menu.
 
 if you found error, please contact me (I'll try to fix it) ;)
 to download my program quickly, use my link, and from there download the installation exe file and enjoy
@@ -38,6 +39,7 @@ gmail: syneation@gmail.com
 4) Чтобы включить разрыв строки, нажмите "Настройки" -> "Разрыв строки", а чтобы отключить его, просто нажмите еще раз, чтобы ваш флажок не был установлен.
 5) Чтобы включить автосохранение, вам нужно открыть или сохранить свой текстовый файл и нажать "Настройки" -> "Автосохранение", и когда вы введете любой символ, ваш текст будет автоматически сохранен. Чтобы отключить его, просто нажмите еще раз, чтобы снять флажок! (если вы не сохраняете или не открываете файл и пытаетесь включить автосохранение, программа автоматически отключает автосохранение)
 6) Чтобы изменить тему, просто нажмите "Настройки" -> "Тема" и выберите цвет.
+7) вы сможете изменить расположение меню бара.
 
 если вы обнаружили ошибку, пожалуйста, свяжитесь со мной (я постараюсь ее исправить) ;)
 чтобы быстро загрузить мою программу, воспользуйтесь моей ссылкой, а оттуда скачайте установочный exe-файл и наслаждайтесь.
