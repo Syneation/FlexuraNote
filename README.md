@@ -9,12 +9,13 @@ In this text editor, you can change the color, font and foreground color of the 
 
 # Hints
 1) if you want to change the text font, size, etc. according to the default settings, just click "Setting" -> "Reset text settings"
-2) if you want to change the default zoom, just click "Setting" -> "Reset Zoom".
-3) If you want to hide your status bar, just click "Settings" -> "Status Bar", and if you want the status bar to be displayed, do it again so that your checkbox is checked.
-4) To enable line break, click "Settings" -> "Line Break", and to DISABLE it, just click again so that your checkbox is not checked.
+2) if you want to change the default zoom, just click "Setting" -> "Reset Zoom"
+3) If you want to hide your status bar, just click "Settings" -> "Status Bar", and if you want the status bar to be displayed, do it again so that your checkbox is checked
+4) To enable line break, click "Settings" -> "Line Break", and to DISABLE it, just click again so that your checkbox is not checked
 5) To enable AutoSave, you need to open or save your text file and click "Settings" -> "AutoSave", and when you enter any character, your text will be automatically saved. To disable it, just click again so that your checkbox is unchecked! (if you don't save or open the file and try to enable auto-save, the program automatically disables auto-save)
-6) To change the theme, just click on "Settings" -> "Theme" and select a color.
-7) you can change the location of the bar menu.
+6) To change the theme, just click on "Settings" -> "Theme" and select a color
+7) you can change the location of the bar menu
+8) you can change from the plain text that is in html to its regular code by clicking "Setting" -> "Show Html Code" and clicking again to return the text
 
 if you found error, please contact me (I'll try to fix it) ;)
 to download my program quickly, use my link, and from there download the installation exe file and enjoy
@@ -40,6 +41,7 @@ gmail: syneation@gmail.com
 5) Чтобы включить автосохранение, вам нужно открыть или сохранить свой текстовый файл и нажать "Настройки" -> "Автосохранение", и когда вы введете любой символ, ваш текст будет автоматически сохранен. Чтобы отключить его, просто нажмите еще раз, чтобы снять флажок! (если вы не сохраняете или не открываете файл и пытаетесь включить автосохранение, программа автоматически отключает автосохранение)
 6) Чтобы изменить тему, просто нажмите "Настройки" -> "Тема" и выберите цвет.
 7) вы сможете изменить расположение меню бара.
+8) можете менять с обычного текста который находится в html на обычный его код нажав "Setting" -> "Show Code Html" и нажать еще раз чтобы вернуть текст.
 
 если вы обнаружили ошибку, пожалуйста, свяжитесь со мной (я постараюсь ее исправить) ;)
 чтобы быстро загрузить мою программу, воспользуйтесь моей ссылкой, а оттуда скачайте установочный exe-файл и наслаждайтесь.
@@ -47,4 +49,4 @@ gmail: syneation@gmail.com
 
 gmail: syneation@gmail.com
 
-(вы можете посмотреть код FlexuraNote в моем другом репозитории "FlexuraNote-code")
+(вы можете посмотреть код FlexuraNote в моем другом репозитории - "FlexuraNote-code")
