@@ -1,10 +1,10 @@
-# FusionNote
+# FlexuraNote
 # EN
-# What is FusionNote ?
+# What is FlexuraNote ?
 this text editor is much better than the old Notepad+, or better yet, just notepad.
-I hope you enjoy using FusionNote :)
+I hope you enjoy using FlexuraNote :)
 
-# About FusionNote
+# About FlexuraNote
 In this text editor, you can change the color, font and foreground color of the text, you can also change the alignment, add an image to your text.
 
 # Hints
@@ -22,14 +22,14 @@ if you get a window stating that the file is unsafe, it's because I don't have t
 
 gmail: syneation@gmail.com
 
-(you can see the FusionNote code in my other repository "FusionNote-code")
+(you can see the FlexuraNote code in my other repository "FlexuraNote-code")
 
 # RU
-# Что такое FusionNote?
+# Что такое FlexuraNote?
 этот текстовый редактор намного лучше старого Notepad+, а еще лучше - просто notepad. 
-Надеюсь, вам понравится пользоваться FusionNote :)
+Надеюсь, вам понравится пользоваться FlexuraNote :)
 
-# О FusionNote
+# О FlexuraNote
 В этом текстовом редакторе вы можете изменить цвет текста, шрифт и цвет переднего плана, вы также можете изменить выравнивание, добавить изображение к тексту.
 
 # Подсказки
@@ -47,4 +47,4 @@ gmail: syneation@gmail.com
 
 gmail: syneation@gmail.com
 
-(вы можете посмотреть код FusionNote в моем другом репозитории "FusionNote-code")
+(вы можете посмотреть код FlexuraNote в моем другом репозитории "FlexuraNote-code")
