@@ -1,9 +1,6 @@
 # FlexuraNote
 # EN
 
-# If it doesn't work
-https://drive.google.com/drive/u/1/home
-
 # What is FlexuraNote ?
 this text editor is much better than the old Notepad+, or better yet, just notepad.
 I hope you enjoy using FlexuraNote :)
@@ -30,9 +27,6 @@ gmail: syneation@gmail.com
 (you can see the FlexuraNote code in my other repository "FlexuraNote-code")
 
 # RU
-
-# если не работает
-https://drive.google.com/drive/u/1/home
 
 # Что такое FlexuraNote?
 этот текстовый редактор намного лучше старого Notepad+, а еще лучше - просто notepad. 
